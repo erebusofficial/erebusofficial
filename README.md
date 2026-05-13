@@ -1,119 +1,51 @@
-<!-- HEADER -->
-<h1 align="center">Hi 👋, I'm a Software Developer</h1>
-<h3 align="center">Full-Stack Developer | Creative Builder | Tech Enthusiast</h3>
+# 👋 Hi, I'm [Your Name]
+### Software Developer | Backend Enthusiast | IoT Explorer
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=C%2B%2B+Developer;Node.js+Backend+Engineer;JavaScript+%26+TypeScript+Lover;Python+Enthusiast;Always+Learning+New+Things&center=true&width=500&height=45">
+A passionate developer from Gaziantep with a knack for building robust backend systems, experimenting with hardware, and creating visual content. I thrive at the intersection of code, data, and design.
+
+---
+
+### 🛠 Tech Stack
+
+#### **Programming Languages**
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+#### **Backend & BaaS**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+
+#### **Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+#### **Tools & Hardware**
+![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=black)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=vision-ary-dark) | ![Stats](https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=vision-ary-dark) |
+| :--- | :--- |
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://dev.to/[YOUR_USERNAME]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to" height="30" width="40" /></a>
+  <a href="https://twitter.com/[YOUR_USERNAME]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+  <a href="https://kaggle.com/[YOUR_USERNAME]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="30" width="40" /></a>
+  <a href="https://instagram.com/[YOUR_USERNAME]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+  <a href="https://tiktok.com/@[YOUR_USERNAME]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tiktok.svg" alt="tiktok" height="30" width="40" /></a>
+  <a href="https://youtube.com/c/[YOUR_CHANNEL]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" /></a>
 </p>
 
 ---
 
-## 🚀 About Me
-
-- 💻 I build scalable backend systems with **Node.js**
-- ⚡ Strong in **C++, JavaScript, TypeScript, Python**
-- 🗄️ Experienced with **MongoDB, MSSQL, MySQL**
-- ☁️ Using **Heroku (BaaS)** for deployment
-- 🎨 Creative side with **Photoshop & Arduino projects**
-- 📈 Sharing knowledge & content across social platforms
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"></a>
-  <a href="https://dev.to/yourusername"><img src="https://img.shields.io/badge/dev.to-000?style=for-the-badge&logo=dev.to"></a>
-  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=twitter"></a>
-  <a href="https://kaggle.com/yourusername"><img src="https://img.shields.io/badge/Kaggle-000?style=for-the-badge&logo=kaggle"></a>
-  <a href="https://youtube.com/yourusername"><img src="https://img.shields.io/badge/YouTube-000?style=for-the-badge&logo=youtube"></a>
-  <a href="https://tiktok.com/@yourusername"><img src="https://img.shields.io/badge/TikTok-000?style=for-the-badge&logo=tiktok"></a>
-  <a href="https://instagram.com/yourusername"><img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram"></a>
-</p>
-
----
-
-## 🛠️ Tech Stack
-
-### 👨‍💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,js,ts,python" />
-</p>
-
-### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs" />
-</p>
-
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
-</p>
-
-### ☁️ Cloud / BaaS
-<p>
-  <img src="https://skillicons.dev/icons?i=heroku" />
-</p>
-
-### 🎨 Tools & Others
-<p>
-  <img src="https://skillicons.dev/icons?i=photoshop,arduino" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" height="180"/>
-</p>
-
----
-
-## 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=yourusername&theme=tokyonight"/>
-</p>
-
----
-
-## 🧠 Currently Learning
-
-- Advanced backend architecture
-- Scalable microservices
-- AI + automation systems
-
----
-
-## 🎯 Goals
-
-- 🚀 Build impactful SaaS products
-- 📱 Grow tech content on social media
-- 💰 Combine development + trading systems
-
----
-
-## 🧩 Fun Zone
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=blueviolet&style=flat"/>
-</p>
-
----
-
-## ⚡ Quote
-
-> "Code. Create. Scale. Repeat."
-
----
+### ⚡ Fun Fact
+When I'm not debugging SQL queries or writing TypeScript, you can probably find me tinkering with Arduino circuits or exploring the historical streets of my hometown.
