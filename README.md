@@ -2,12 +2,12 @@
 <h3 align="center"> Software Developer | Problem Solver | Algorithm Builder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Node.js+Backend+Engineer;Algorithm+Enthusiast;Always+Learning+🚀&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;Node.js+Backend+Engineer;Algorithm+Enthusiast;Always+Learning&center=true&width=500&height=45">
 </p>
 
 ---
 
-## 🚀 About Me
+## About Me
 - 🎓 Studied at **Gaziantep University**
 - 💻 Passionate about **Programming, Problem Solving & Algorithms**
 - ⚡ Focused on building scalable backend systems
@@ -67,16 +67,8 @@
 
 ---
 
-## 📈 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erebusofficial&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 <div align="center">
-  <i>"Kodun kalitesi, yazılımcının imzasıdır."</i><br>
+  <i>"The quality of the code is the signature of the programmer."</i><br>
   <a href="https://github.com/erebusofficial"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github">
   </a>
 </div>
