@@ -75,13 +75,11 @@
 
 ---
 
-## 🧠 Quote I Live By
-> "First, solve the problem. Then, write the code." – John Johnson
-
----
-
-## ⚡ Fun Fact
-I turn ideas into scalable systems and problems into algorithms 🚀
+<div align="center">
+  <i>"Kodun kalitesi, yazılımcının imzasıdır."</i><br>
+  <a href="https://github.com/erebusofficial"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github">
+  </a>
+</div>
 
 ---
 
