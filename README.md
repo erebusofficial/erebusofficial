@@ -1,41 +1,36 @@
-<!-- HEADER -->
-<h1 align="center">Hi 👋, I'm a Software Developer</h1>
-<h3 align="center">Full-Stack Developer | Creative Builder | Tech Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Erebus</h1>
+<h3 align="center">Software Developer | Problem Solver | Algorithm Builder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=C%2B%2B+Developer;Node.js+Backend+Engineer;JavaScript+%26+TypeScript+Lover;Python+Enthusiast;Always+Learning+New+Things&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Node.js+Backend+Engineer;Algorithm+Enthusiast;Always+Learning+🚀&center=true&width=500&height=45">
 </p>
 
 ---
 
 ## 🚀 About Me
-
-- 💻 I build scalable backend systems with **Node.js**
-- ⚡ Strong in **C++, JavaScript, TypeScript, Python**
-- 🗄️ Experienced with **MongoDB, MSSQL, MySQL**
-- ☁️ Using **Heroku (BaaS)** for deployment
-- 🎨 Creative side with **Photoshop & Arduino projects**
-- 📈 Sharing knowledge & content across social platforms
+- 🎓 Studied at **Gaziantep University**
+- 💻 Passionate about **Programming, Problem Solving & Algorithms**
+- ⚡ Focused on building scalable backend systems
+- 🧠 Always learning and improving
 
 ---
 
 ## 🌐 Connect With Me
-
 <p align="center">
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"></a>
-  <a href="https://dev.to/yourusername"><img src="https://img.shields.io/badge/dev.to-000?style=for-the-badge&logo=dev.to"></a>
-  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=twitter"></a>
-  <a href="https://kaggle.com/yourusername"><img src="https://img.shields.io/badge/Kaggle-000?style=for-the-badge&logo=kaggle"></a>
-  <a href="https://youtube.com/yourusername"><img src="https://img.shields.io/badge/YouTube-000?style=for-the-badge&logo=youtube"></a>
-  <a href="https://tiktok.com/@yourusername"><img src="https://img.shields.io/badge/TikTok-000?style=for-the-badge&logo=tiktok"></a>
-  <a href="https://instagram.com/yourusername"><img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram"></a>
+  <a href="https://github.com/erebusofficial"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"></a>
+  <a href="https://dev.to/erebusofficial"><img src="https://img.shields.io/badge/Dev.to-000?style=for-the-badge&logo=dev.to"></a>
+  <a href="https://x.com/alitskn00"><img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=twitter"></a>
+  <a href="https://www.kaggle.com/theerebus"><img src="https://img.shields.io/badge/Kaggle-000?style=for-the-badge&logo=kaggle"></a>
+  <a href="https://www.youtube.com/@deepmanipulations0"><img src="https://img.shields.io/badge/YouTube-000?style=for-the-badge&logo=youtube"></a>
+  <a href="https://www.tiktok.com/@erebusvl"><img src="https://img.shields.io/badge/TikTok-000?style=for-the-badge&logo=tiktok"></a>
+  <a href="https://www.instagram.com/erebusvl/"><img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram"></a>
 </p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Languages
+### 💻 Languages
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,js,ts,python" />
 </p>
@@ -48,15 +43,15 @@
 ### 🗄️ Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
+  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
-### ☁️ Cloud / BaaS
+### ☁️ BaaS & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=heroku" />
 </p>
 
-### 🎨 Tools & Others
+### 🎨 Software & Hardware
 <p>
   <img src="https://skillicons.dev/icons?i=photoshop,arduino" />
 </p>
@@ -66,54 +61,30 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=erebusofficial&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erebusofficial&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=erebusofficial&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=erebusofficial&theme=tokyonight" />
 </p>
 
 ---
 
-## 🔥 Streak Stats
+## 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=yourusername&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erebusofficial&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🧠 Currently Learning
-
-- Advanced backend architecture
-- Scalable microservices
-- AI + automation systems
+## 🧠 Quote I Live By
+> "First, solve the problem. Then, write the code." – John Johnson
 
 ---
 
-## 🎯 Goals
-
-- 🚀 Build impactful SaaS products
-- 📱 Grow tech content on social media
-- 💰 Combine development + trading systems
+## ⚡ Fun Fact
+I turn ideas into scalable systems and problems into algorithms 🚀
 
 ---
-
-## 🧩 Fun Zone
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&row=1&column=6"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
 </p>
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=blueviolet&style=flat"/>
-</p>
-
----
-
-## ⚡ Quote
-
-> "Code. Create. Scale. Repeat."
-
----
