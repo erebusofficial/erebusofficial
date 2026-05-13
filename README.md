@@ -29,7 +29,7 @@ A passionate developer from Gaziantep with a knack for building robust backend s
 ---
 
 ### 📊 GitHub Stats
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=vision-ary-dark) | ![Stats](https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=vision-ary-dark) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[erebusofficial]&layout=compact&theme=vision-ary-dark) | ![Stats](https://github-readme-stats.vercel.app/api?username=[erebusofficial]&show_icons=true&theme=vision-ary-dark) |
 | :--- | :--- |
 
 ---
