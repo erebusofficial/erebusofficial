@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Erebus</h1>
-<h3 align="center">Software Developer | Problem Solver | Algorithm Builder</h3>
+<h1 align="center">Hi, I'm Erebus</h1>
+<h3 align="center">**Software Developer |** **Problem Solver |** **Algorithm Builder**</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Node.js+Backend+Engineer;Algorithm+Enthusiast;Always+Learning+🚀&center=true&width=500&height=45">
