@@ -1,75 +1,119 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" />
-  <h1>Selam, Ben Kadir Söker! <img src="https://media.giphy.com/media/hvRJCLFzcuMiM/giphy.gif" width="30px"></h1>
-  <h3>💻 Yazılım Geliştirici | Gömülü Sistemler, Web & Mobil 🚀</h3>
-  <p><b>Ecole 42</b> disipliniyle kazandığım algoritmik düşünce yapısını; <b>Gömülü Sistemler</b>, <b>Web</b> ve <b>Mobil</b> teknolojileriyle birleştirerek çok yönlü çözümler üretiyorum.</p>
-</div>
+<!-- HEADER -->
+<h1 align="center">Hi 👋, I'm a Software Developer</h1>
+<h3 align="center">Full-Stack Developer | Creative Builder | Tech Enthusiast</h3>
 
-
----
-
-### 🎓 Eğitim Geçmişim
-
-* <img src="https://img.shields.io/badge/Ecole_42-000000?style=flat&logo=42&logoColor=white" /> **Ecole 42** - Common Core Mezunu 
-    * *Algoritma, Düşük Seviye Programlama ve Problem Çözme üzerine yoğunlaştım.*
-* <img src="https://img.shields.io/badge/Gaziantep_Üniversitesi-D40000?style=flat&logo=school&logoColor=white" /> **Gaziantep Üniversitesi** - Bilgisayar Programcılığı
-
----
-
-### 🛠️ Yetenekler & Teknolojiler
-
-Modern yazılım dünyasında kullandığım araçlar ve diller:
-
-#### 👨‍💻 Programlama Dilleri
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>
-
-#### 🌐 Web & Backend Teknolojileri
-<p>
-  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=nuget&logoColor=white" />
-</p>
-
-#### ⚙️ Geliştirme Ortamları (IDE) & Araçlar
-<p>
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=C%2B%2B+Developer;Node.js+Backend+Engineer;JavaScript+%26+TypeScript+Lover;Python+Enthusiast;Always+Learning+New+Things&center=true&width=500&height=45">
 </p>
 
 ---
 
-### 📊 GitHub İstatistiklerim
+## 🚀 About Me
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kadirsoker&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadirsoker&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kadirsoker&theme=tokyonight&hide_border=true" width="100%" />
-</div>
+- 💻 I build scalable backend systems with **Node.js**
+- ⚡ Strong in **C++, JavaScript, TypeScript, Python**
+- 🗄️ Experienced with **MongoDB, MSSQL, MySQL**
+- ☁️ Using **Heroku (BaaS)** for deployment
+- 🎨 Creative side with **Photoshop & Arduino projects**
+- 📈 Sharing knowledge & content across social platforms
 
 ---
 
-<div align="center">
-  <i>"Kodun kalitesi, yazılımcının imzasıdır."</i><br>
-  <a href="https://linkedin.com/in/kadirsoker9">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"></a>
+  <a href="https://dev.to/yourusername"><img src="https://img.shields.io/badge/dev.to-000?style=for-the-badge&logo=dev.to"></a>
+  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=twitter"></a>
+  <a href="https://kaggle.com/yourusername"><img src="https://img.shields.io/badge/Kaggle-000?style=for-the-badge&logo=kaggle"></a>
+  <a href="https://youtube.com/yourusername"><img src="https://img.shields.io/badge/YouTube-000?style=for-the-badge&logo=youtube"></a>
+  <a href="https://tiktok.com/@yourusername"><img src="https://img.shields.io/badge/TikTok-000?style=for-the-badge&logo=tiktok"></a>
+  <a href="https://instagram.com/yourusername"><img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram"></a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,js,ts,python" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
+</p>
+
+### ☁️ Cloud / BaaS
+<p>
+  <img src="https://skillicons.dev/icons?i=heroku" />
+</p>
+
+### 🎨 Tools & Others
+<p>
+  <img src="https://skillicons.dev/icons?i=photoshop,arduino" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+## 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=yourusername&theme=tokyonight"/>
+</p>
+
+---
+
+## 🧠 Currently Learning
+
+- Advanced backend architecture
+- Scalable microservices
+- AI + automation systems
+
+---
+
+## 🎯 Goals
+
+- 🚀 Build impactful SaaS products
+- 📱 Grow tech content on social media
+- 💰 Combine development + trading systems
+
+---
+
+## 🧩 Fun Zone
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=blueviolet&style=flat"/>
+</p>
+
+---
+
+## ⚡ Quote
+
+> "Code. Create. Scale. Repeat."
+
+---
