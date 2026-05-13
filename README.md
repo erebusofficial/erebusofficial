@@ -9,9 +9,9 @@
 
 ## About Me
 - 🎓 Studied at **Gaziantep University**
-- 💻 Passionate about **Programming, Problem Solving & Algorithms**
-- ⚡ Focused on building scalable backend systems
-- 🧠 Always learning and improving
+-  Passionate about **Programming, Problem Solving & Algorithms**
+-  Focused on building scalable backend systems
+-  Always learning and improving
 
 ---
 
@@ -30,35 +30,35 @@
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+###  Languages
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,js,ts,python" />
 </p>
 
-### ⚙️ Backend
+###  Backend
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs" />
 </p>
 
-### 🗄️ Databases
+###  Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
   <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
-### ☁️ BaaS & Tools
+###  BaaS & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=heroku" />
 </p>
 
-### 🎨 Software & Hardware
+###  Software & Hardware
 <p>
   <img src="https://skillicons.dev/icons?i=photoshop,arduino" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=erebusofficial&show_icons=true&theme=tokyonight" />
