@@ -1,7 +1,7 @@
 # 👋 Hi, I'm [Your Name]
 ### Software Developer | Backend Enthusiast | IoT Explorer
 
-A passionate developer from Gaziantep with a knack for building robust backend systems, experimenting with hardware, and creating visual content. I thrive at the intersection of code, data, and design.
+A passionate developer with a knack for building robust backend systems, experimenting with hardware, and creating visual content. I thrive at the intersection of code, data, and design.
 
 ---
 
@@ -29,20 +29,24 @@ A passionate developer from Gaziantep with a knack for building robust backend s
 ---
 
 ### 📊 GitHub Stats
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erebusofficial&layout=compact&theme=vision-ary-dark) | ![Stats](https://github-readme-stats.vercel.app/api?username=erebusofficial&show_icons=true&theme=vision-ary-dark) |
-| :--- | :--- |
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=erebusofficial&show_icons=true&theme=vision-ary-dark&hide_border=true" alt="erebusofficial's GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erebusofficial&layout=compact&theme=vision-ary-dark&hide_border=true" alt="Most Used Languages" />
+</p>
 
 ---
 
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://dev.to/[YOUR_USERNAME]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to" height="30" width="40" /></a>
-  <a href="https://twitter.com/[YOUR_USERNAME]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
-  <a href="https://kaggle.com/[YOUR_USERNAME]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="30" width="40" /></a>
-  <a href="https://instagram.com/[YOUR_USERNAME]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-  <a href="https://tiktok.com/@[YOUR_USERNAME]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tiktok.svg" alt="tiktok" height="30" width="40" /></a>
-  <a href="https://youtube.com/c/[YOUR_CHANNEL]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" /></a>
+  <a href="https://dev.to/erebusofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to" height="30" width="40" /></a>
+  <a href="https://twitter.com/erebusofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+  <a href="https://kaggle.com/erebusofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="30" width="40" /></a>
+  <a href="https://instagram.com/erebusofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+  <a href="https://tiktok.com/@erebusofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tiktok.svg" alt="tiktok" height="30" width="40" /></a>
+  <a href="https://youtube.com/@erebusofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" /></a>
 </p>
 
 ---
