@@ -58,10 +58,8 @@
 
 ---
 
-##  GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=erebusofficial&theme=tokyonight" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
 </p>
 
 ---
@@ -71,9 +69,3 @@
   <a href="https://github.com/erebusofficial"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github">
   </a>
 </div>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
-</p>
