@@ -32,7 +32,7 @@
 
 ###  Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,js,ts,python" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,js,ts,mysql" />
 </p>
 
 ###  Backend
